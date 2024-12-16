@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/uc?id=1kEjKGOwyc9JbsMS-RIhZOTUdpCf4du_L)
+![logo](https://drive.google.com/uc?id=1iFt2ZK1umfwWrAfQBKWi0wWo8OBxWJf1)
 <h1 align="center">Hi 👋, I'm PRANTIK SANKI</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
